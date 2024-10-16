@@ -1,2 +1,2 @@
 # repoCreatedFromTerraform
-This repository was created from a terraform file!
+This repository was created from a terraform file updated!
